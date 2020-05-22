@@ -1,0 +1,22 @@
+body{
+ background:#19ff75;
+ color: #0A662E;
+ text-align: center;
+ font-family: century;
+}
+div{
+ background:white;
+ color: black;
+ paddling: 1px 12px;
+}
+h1{
+   color: black;
+}
+h2{
+   color: blue;
+}
+
+hr{
+   border-width: 3px;
+   border-color: black;
+}
